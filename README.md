@@ -14,7 +14,7 @@ You can either copy & paste the codes from the `.ipynb` files and run at a pytho
 
 #### If you are using ITL machines
 
-TBC (The ITL machines should be already prepared to run the lab sheet without further setup). 
+The ITL machines should be already prepared to run the labs without further setup. 
 
 1. Clone/Download the repository: run the following command at the Terminal
 ```
